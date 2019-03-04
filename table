@@ -2,30 +2,8 @@
 <html>
 <body>
 
-<h2>Basic HTML Table</h2>
-
-<table style="width:100%">
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-  <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
-  </tr>
-</table>
+<h2>Testudines</h2>
+<img src="img_girl.jpg" alt="Girl in a jacket" width="400" height="600">
 
 </body>
 </html>
