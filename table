@@ -1,10 +1,20 @@
 <!DOCTYPE html>
 <html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
 <body>
 
-<h2>Reptilia</h2>
 
 <table style="width:100%">
+  <h2>Reptilia</h2>
+
+<table style="width:100%">
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
   <tr>
     <th>Crocodilia</th>
     <th>Squamata</th> 
@@ -29,3 +39,5 @@
 
 </body>
 </html>
+
+
